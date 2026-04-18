@@ -5,4 +5,4 @@ The integrated scores of the facilities and perceptions systems can be objective
 ## Coupling Coordination Analysis Model
 To measure the degree of interaction between the two systems, this study utilizes the Coupling Coordination Analysis Model. A higher coupling degree indicates a tighter connection and greater mutual influence between systems. A higher coordination degree suggests more harmonious internal operations and greater consistency in achieving objectives.
 ## Related paper
-Towards Child-Friendly Cities: Understanding Children’s Urban Perceptions Via Geospatial Techniques and Statistical Models (under review, Habitat International)
+Gu, X. (2026). Towards child-friendly cities: Understanding children's urban perceptions via geospatial techniques and statistical models. Habitat International, 103793. (https://doi.org/10.1016/j.habitatint.2026.103793)
